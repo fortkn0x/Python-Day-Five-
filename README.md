@@ -26,4 +26,4 @@ Juan: work with Daniel to introduce some elementary concepts with lists and for-
 `print(weapons[3]`
 Try to write a while-loop that prints out each element of the list. print("one of my favorite weapons in minecraft is " + weapons[i])
 
-After that, show them that they can build a list using .append and input. Have them write the program together and then they can take turns one-by-one inputting a single element.
+After that, show them that they can build a list using .append and input. Have them write the program together and then they can take turns one-by-one inputting a single element. Maybe they can write a story together line-by-line and then print it out with a for-loop after.
